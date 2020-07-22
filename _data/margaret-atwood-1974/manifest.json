@@ -27,6 +27,12 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://colefemeno.github.io/margaret-atwood-sgwu-1974/margaret-atwood-1974/canvas-1/canvas/e-labels.json",
+            "label": "e-labels"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://colefemeno.github.io/margaret-atwood-sgwu-1974/margaret-atwood-1974/canvas-1/canvas/t-labels.json",
             "label": "t-labels"
           }
