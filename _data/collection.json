@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Margaret Atwood at SGWU, 1974" ] },
+    "summary": { "en": [ "Margaret Atwood at SGWU 1974 from SpokenWeb project" ] },
+    "items": [
+    ]
+}
